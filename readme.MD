@@ -1,6 +1,7 @@
 This is a Simple GUI Python script to batch convert images in a folder to PDF.
 
-##Requirements:
+##Requirements:##
+
 `pip install PIL`
 
 Features:
