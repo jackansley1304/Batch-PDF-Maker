@@ -4,7 +4,7 @@ This is a Simple GUI Python script to batch convert images in a folder to PDF.
 
 `pip install PIL`
 
-Features:
+## Features:
 
 1. Ability to batch convert images in a folder into a single PDF.
 2. Change the image order.
